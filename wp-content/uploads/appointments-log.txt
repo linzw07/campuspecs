@@ -1,0 +1,7 @@
+<b>[September 8, 2015 12:55 pm]</b> Status changed from pending to confirmed by root for appointment ID:1
+<b>[September 10, 2015 10:49 am]</b> Status changed from pending to confirmed by root for appointment ID:3
+<b>[September 10, 2015 10:50 am]</b> Status changed from pending to confirmed by root for appointment ID:2
+<b>[September 10, 2015 10:50 am]</b> Status changed from confirmed to completed by root for appointment ID:2
+<b>[September 10, 2015 10:51 am]</b> Status changed from confirmed to removed by root for appointment ID:3
+<b>[September 10, 2015 10:51 am]</b> Status changed from pending to removed by root for appointment ID:4
+
