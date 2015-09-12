@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'campuspecs');
+define('DB_NAME', 'linzw07_campuspecs');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'linzw07_campuspe');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'nip6fill');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

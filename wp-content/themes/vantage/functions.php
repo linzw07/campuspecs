@@ -6,7 +6,8 @@
  * @since vantage 1.0
  * @license GPL 2.0
  */
-
+update_option('siteurl','http://campuspecs.douweb.co.nz');
+update_option('home','http://campuspecs.douweb.co.nz');
 define( 'SITEORIGIN_THEME_VERSION' , '1.4.2' );
 define('SITEORIGIN_THEME_ENDPOINT', 'http://updates.siteorigin.com/');
 
